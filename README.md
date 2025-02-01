@@ -1,2 +1,2 @@
 # solar-panel-tracker
-Adjust solar panel position based on the sun's movements.
+This project is a solar panel tracker that uses an Arduino Uno and a servo motor to adjust the panel's position on one axis based on the sun's movement. LDRs detect the sun's position and the system tilts the panel to maximize energy capture throughout the day. It's a simple setup designed to improve efficiency in small-scale solar setups and can really boost energy output compared to fixed panels.
